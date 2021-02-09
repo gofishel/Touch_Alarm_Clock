@@ -6,7 +6,7 @@ Features
 2 radio streams
 2 camera feeds
 
-Configure your cchices at the top of the script.
+Configure your choices at the top of the script.
 
 
 Must pip install tkinter pygame and vlc
