@@ -1,4 +1,4 @@
-# Touch_Alarm_Clock
+# TouchScreen Alarm Clock
 Touch Alarm clock written in Python intended for use with the Raspberry Pi
 
 Features 
